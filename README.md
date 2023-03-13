@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and some electronics.
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on custom rom development.
+- 💞️ Also looking for web development based projects.
 - 📫 How to reach me - pusontakke1@gmail.com
 
 <!---
