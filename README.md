@@ -3,13 +3,10 @@
 - 🌱 I’m currently learning full stack web development.
 - 🤝 I'm looking for web development based projects.
 - 📫 How to reach me - pusontakke1@gmail.com
-- <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=piyush-sontakke-08b05917a" target="_blank">Follow on LinkedIn</a>
-
 <!---
 pushsontakke/pushsontakke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-sontakke) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@PiyushSontakke4) 
 
